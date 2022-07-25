@@ -19,7 +19,7 @@ namespace Core.Infrastructure.Concrede
             {
                var value = context.Set<T>().Select(filter).ToList();
                
-               return 
+               return value
             }
         }
     }
