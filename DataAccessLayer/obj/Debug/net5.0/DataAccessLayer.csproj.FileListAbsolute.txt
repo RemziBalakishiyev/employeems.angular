@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\AspNetCoreMVCTutorial\EmployeeMS.Api\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\ASUS\Documents\AspNetCoreMVCTutorial\EmployeeMS.Api\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\ASUS\Documents\AspNetCoreMVCTutorial\EmployeeMS.Api\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\ASUS\Documents\AspNetCoreMVCTutorial\EmployeeMS.Api\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\AspNetCoreMVCTutorial\EmployeeMS.Api\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\AspNetCoreMVCTutorial\EmployeeMS.Api\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\AspNetCoreMVCTutorial\EmployeeMS.Api\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\ASUS\Documents\AspNetCoreMVCTutorial\EmployeeMS.Api\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\AspNetCoreMVCTutorial\EmployeeMS.Api\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\ASUS\Documents\AspNetCoreMVCTutorial\EmployeeMS.Api\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+C:\Users\ASUS\Documents\AspNetCoreMVCTutorial\EmployeeMS.Api\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\ASUS\Documents\AspNetCoreMVCTutorial\EmployeeMS.Api\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\ASUS\Documents\AspNetCoreMVCTutorial\EmployeeMS.Api\DataAccessLayer\bin\Debug\net5.0\Core.dll
+C:\Users\ASUS\Documents\AspNetCoreMVCTutorial\EmployeeMS.Api\DataAccessLayer\bin\Debug\net5.0\Core.pdb
+C:\Users\ASUS\Documents\AspNetCoreMVCTutorial\EmployeeMS.Api\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
